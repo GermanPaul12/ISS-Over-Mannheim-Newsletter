@@ -2,6 +2,7 @@ import yagmail
 import requests
 import datetime as dt
 import os
+from neo4mails import Email
 import time
 
 times = 0
@@ -53,13 +54,27 @@ def iss_checker():
         sunset_minute = sunset_splitted_data[1]
 
         now = dt.datetime.now().hour
-
+        with open('iss_data.csv', 'a+') as f:
+            f.write(f"{iss_position[0]},{iss_position[1]},{dt.datetime.now()}")
         if now >= sunset_hour or now <= sunrise_hour:
             sender = yagmail.SMTP(user=os.environ['GMAIL_MAIL'],
                                   password=os.environ['MAIL_PW'])
-            sender.send(to=os.environ['MY_MAIL'],
-                        subject="The ISS is over your head",
-                        contents="You have to look up right now!")
+            to = Email.read_emails()
+            if to:
+                sender.send(
+                    to=os.environ['MY_MAIL'],
+                    bcc=to,
+                    subject="The ISS is above you!📍",
+                    contents=
+                    "Hey there,\n\nThe ISS is above you right now so feel free to look in the sky.\nBest regards\nGerman \n(ISS Mannheim Newsletter)\n\nRemove yourself from the Newsletter: https://iss-route.streamlit.app/ISS_Newsletter"
+                )
+            else:
+                sender.send(
+                    to=os.environ['MY_MAIL'],
+                    subject="The ISS is above you!📍",
+                    contents=
+                    "Hey there,\n\nThe ISS is above you right now so feel free to look in the sky.\nBest regards\nGerman \n(ISS Mannheim Newsletter)\n\nRemove yourself from the Newsletter: https://iss-route.streamlit.app/ISS_Newsletter"
+                )
             with open('iss_mannheim.csv', 'a+') as f:
                 f.write(f"{dt.datetime.now()}: {iss_position}")
             print("Look up")
