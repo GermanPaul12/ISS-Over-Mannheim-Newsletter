@@ -56,7 +56,7 @@ def iss_checker():
     with open('iss_data.csv', 'a+') as f:
         f.write(f"{iss_position[0]},{iss_position[1]},{dt.datetime.now()}\n")
     counter_git += 1
-    if counter_git >= 2:
+    if counter_git >= 60:
         counter_git = 0
         remote_repo = "origin"
         branch = "main"  # Change this to your branch name if different
