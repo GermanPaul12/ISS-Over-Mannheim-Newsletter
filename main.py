@@ -5,4 +5,4 @@ import time
 while True:
     keep_alive()
     iss_checker()
-    time.sleep(1)
+    time.sleep(60)

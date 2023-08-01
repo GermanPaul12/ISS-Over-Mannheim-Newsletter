@@ -221,6 +221,21 @@ optional = false
 python-versions = ">=3.7"
 
 [[package]]
+name = "neo4j"
+version = "5.10.0"
+description = "Neo4j Bolt driver for Python"
+category = "main"
+optional = false
+python-versions = ">=3.7"
+
+[package.dependencies]
+pytz = "*"
+
+[package.extras]
+numpy = ["numpy (>=1.7.0,<2.0.0)"]
+pandas = ["pandas (>=1.1.0,<3.0.0)", "numpy (>=1.7.0,<2.0.0)"]
+
+[[package]]
 name = "numpy"
 version = "1.22.2"
 description = "NumPy is the fundamental package for array computing with Python."
@@ -246,6 +261,14 @@ requests = "*"
 [package.extras]
 dev = ["tox", "twine", "therapist", "black", "flake8", "wheel"]
 test = ["nose", "mock"]
+
+[[package]]
+name = "pytz"
+version = "2023.3"
+description = "World timezone definitions, modern and historical"
+category = "main"
+optional = false
+python-versions = "*"
 
 [[package]]
 name = "replit"
@@ -354,7 +377,7 @@ testing = ["pytest (>=6)", "pytest-checkdocs (>=2.4)", "pytest-flake8", "pytest-
 [metadata]
 lock-version = "1.1"
 python-versions = ">=3.8.0,<3.9"
-content-hash = "c8db509bfbf4886ebd7de1eb6a5d9bc4b859ee95a48be34905f37cbee36db94b"
+content-hash = "98b95027de7007d32cdd4a25eb8b9355eaefec1c10815ff3560f3e8d2adc8889"
 
 [metadata.files]
 aiohttp = []
@@ -377,8 +400,10 @@ jinja2 = []
 lxml = []
 markupsafe = []
 multidict = []
+neo4j = []
 numpy = []
 premailer = []
+pytz = []
 replit = []
 requests = []
 typing-extensions = []
