@@ -19,7 +19,7 @@ def git_push(remote_repo, branch="main"):
         subprocess.run(["git", "commit", "-m", commit_message], check=True)
 
         # Pushing the changes to the remote repository
-        subprocess.run(["git", "push", remote_repo, branch], check=True)
+        subprocess.run(["git", "push", remote_repo, branch], check=FALSE)
         print("File successfully pushed to the remote repository.")
     except subprocess.CalledProcessError as e:
         print(f"An error occurred: {str(e)}")
