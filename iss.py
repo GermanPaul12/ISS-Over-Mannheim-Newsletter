@@ -3,7 +3,6 @@ import requests
 import datetime as dt
 import os
 from neo4mails import Email
-import time
 import subprocess
 
 times = 0
@@ -56,7 +55,7 @@ def iss_checker():
     with open('iss_data.csv', 'a+') as f:
         f.write(f"{iss_position[0]},{iss_position[1]},{dt.datetime.now()}\n")
     counter_git += 1
-    if counter_git >= 60:
+    if counter_git >= 2:
         counter_git = 0
         remote_repo = "origin"
         branch = "main"  # Change this to your branch name if different
@@ -125,8 +124,6 @@ def iss_checker():
                 "The ISS is over your head but the sky is to light to see it.")
         times += 1
         print(f"The code ran {times} times.")
-        time.sleep(60)
     else:
         times += 1
         print(f"The code ran {times} times.")
-        time.sleep(60)
