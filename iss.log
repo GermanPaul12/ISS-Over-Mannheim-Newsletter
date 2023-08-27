@@ -356,3 +356,13 @@ To https://github.com/GermanPaul12/ISS-Over-Mannheim-Newsletter-on-Replit.git
    50c9a4b..cc89b37  main -> main
 File successfully pushed to the remote repository.
 The code ran successfully.
+[main f46e480] Add update
+ 2 files changed, 11 insertions(+)
+remote: 
+remote: GitHub found 1 vulnerability on GermanPaul12/ISS-Over-Mannheim-Newsletter-on-Replit's default branch (1 high). To find out more, visit:        
+remote:      https://github.com/GermanPaul12/ISS-Over-Mannheim-Newsletter-on-Replit/security/dependabot/1        
+remote: 
+To https://github.com/GermanPaul12/ISS-Over-Mannheim-Newsletter-on-Replit.git
+   cc89b37..f46e480  main -> main
+File successfully pushed to the remote repository.
+The code ran successfully.
