@@ -1,6 +1,6 @@
 import yagmail
 import requests
-import datetime as dt
+from datetime import datetime
 import os
 from neo4mails import Email
 import subprocess
@@ -51,11 +51,11 @@ def iss_checker():
     #my_location = (MY_LAT, MY_LNG)
     #print(f"My current location is: {my_location}")
     with open('iss_data.csv', 'a+') as f:
-        f.write(f"{iss_position[0]},{iss_position[1]},{dt.datetime.now()}\n")
+        f.write(f"{iss_position[0]},{iss_position[1]},{datetime.now()}\n")
    
     
     with open("git_log.txt", "r") as f:
-        todays_day = dt.now().weekday()
+        todays_day = datetime.now().weekday()
         if todays_day in [0,2,4,6]:
             if f.read() == "False":
                 remote_repo = "origin"
@@ -88,7 +88,7 @@ def iss_checker():
         sunset_hour = int(sunset_splitted_data[0]) + 1
         sunset_minute = sunset_splitted_data[1]
 
-        now = dt.datetime.now().hour
+        now = datetime.now().hour
 
         if now >= sunset_hour or now <= sunrise_hour:
             sender = yagmail.SMTP(user=Secret.secrets['GMAIL_MAIL'],
@@ -123,7 +123,7 @@ def iss_checker():
                             subject="The ISS is above you!📍",
                             contents=html_content)
             with open('iss_mannheim.csv', 'a+') as f:
-                f.write(f"{dt.datetime.now()}: {iss_position}")
+                f.write(f"{datetime.now()}: {iss_position}")
             print("Look up")
         else:
             print(
