@@ -4,9 +4,9 @@ import datetime as dt
 import os
 from neo4mails import Email
 import subprocess
+from secret import Secret
 
 times = 0
-counter_git = 0
 
 
 def git_push(remote_repo, branch="main"):
@@ -32,8 +32,8 @@ def iss_checker():
     #Mannheim
     global times
     global counter_git
-    MY_LAT = os.environ['MA_LAT']
-    MY_LNG = os.environ['MA_LNG']
+    MY_LAT = Secret.secrets['MA_LAT']
+    MY_LNG = Secret.secrets['MA_LNG']
     #------------------------CODE-------------------------#
 
     url = "http://api.open-notify.org/iss-now.json"
@@ -54,12 +54,10 @@ def iss_checker():
     #print(f"My current location is: {my_location}")
     with open('iss_data.csv', 'a+') as f:
         f.write(f"{iss_position[0]},{iss_position[1]},{dt.datetime.now()}\n")
-    counter_git += 1
-    if counter_git >= 2:
-        counter_git = 0
-        remote_repo = "origin"
-        branch = "main"  # Change this to your branch name if different
-        git_push(remote_repo, branch)
+   
+    remote_repo = "origin"
+    branch = "main"  # Change this to your branch name if different
+    git_push(remote_repo, branch)
 
     if iss_position[0] <= float(MY_LAT) + 5 and iss_position[0] >= float(
             MY_LAT) - 5 and iss_position[1] <= float(
@@ -85,8 +83,8 @@ def iss_checker():
         now = dt.datetime.now().hour
 
         if now >= sunset_hour or now <= sunrise_hour:
-            sender = yagmail.SMTP(user=os.environ['GMAIL_MAIL'],
-                                  password=os.environ['MAIL_PW'])
+            sender = yagmail.SMTP(user=Secret.secrets['GMAIL_MAIL'],
+                                  password=Secret.secrets['MAIL_PW'])
             to = Email.read_emails()
             html_content = f"""
             <!DOCTYPE html>
@@ -108,12 +106,12 @@ def iss_checker():
             </html>
             """
             if to:
-                sender.send(to=os.environ['MY_MAIL'],
+                sender.send(to=Secret.secrets['MY_MAIL'],
                             bcc=to,
                             subject="The ISS is above you!📍",
                             contents=html_content)
             else:
-                sender.send(to=os.environ['MY_MAIL'],
+                sender.send(to=Secret.secrets['MY_MAIL'],
                             subject="The ISS is above you!📍",
                             contents=html_content)
             with open('iss_mannheim.csv', 'a+') as f:
@@ -127,3 +125,6 @@ def iss_checker():
     else:
         times += 1
         print(f"The code ran {times} times.")
+
+if __name__ == "__main__":
+    iss_checker()
