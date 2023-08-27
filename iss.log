@@ -1426,3 +1426,25 @@ To https://github.com/GermanPaul12/ISS-Over-Mannheim-Newsletter-on-Replit.git
    a2609f6..f119de2  main -> main
 File successfully pushed to the remote repository.
 The code ran successfully.
+[main 9708d53] Add update
+ 2 files changed, 11 insertions(+)
+remote: 
+remote: GitHub found 1 vulnerability on GermanPaul12/ISS-Over-Mannheim-Newsletter-on-Replit's default branch (1 high). To find out more, visit:        
+remote:      https://github.com/GermanPaul12/ISS-Over-Mannheim-Newsletter-on-Replit/security/dependabot/1        
+remote: 
+To https://github.com/GermanPaul12/ISS-Over-Mannheim-Newsletter-on-Replit.git
+   f119de2..9708d53  main -> main
+File successfully pushed to the remote repository.
+The code ran successfully.
+Traceback (most recent call last):
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 134, in <module>
+    iss_checker()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 58, in iss_checker
+    todays_day = dt.now().weekday()
+AttributeError: module 'datetime' has no attribute 'now'
+Traceback (most recent call last):
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 134, in <module>
+    iss_checker()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 58, in iss_checker
+    todays_day = dt.now().weekday()
+AttributeError: module 'datetime' has no attribute 'now'

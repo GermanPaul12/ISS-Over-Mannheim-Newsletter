@@ -53,9 +53,19 @@ def iss_checker():
     with open('iss_data.csv', 'a+') as f:
         f.write(f"{iss_position[0]},{iss_position[1]},{dt.datetime.now()}\n")
    
-    remote_repo = "origin"
-    branch = "main"  # Change this to your branch name if different
-    git_push(remote_repo, branch)
+    
+    with open("git_log.txt", "r") as f:
+        todays_day = dt.now().weekday()
+        if todays_day in [0,2,4,6]:
+            if f.read() == "False":
+                remote_repo = "origin"
+                branch = "main"  # Change this to your branch name if different
+                git_push(remote_repo, branch)
+                with open("git_log.txt", "w") as file:
+                    file.write("True")
+        else:
+            with open("git_log.txt", "w") as file:
+                file.write("False")   
 
     if iss_position[0] <= float(MY_LAT) + 5 and iss_position[0] >= float(
             MY_LAT) - 5 and iss_position[1] <= float(
