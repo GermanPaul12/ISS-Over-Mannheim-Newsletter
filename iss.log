@@ -2,3 +2,17 @@ The code ran 1 times.
 The code ran 1 times.
 The code ran 1 times.
 The code ran 1 times.
+[main d9ef53c] Add update
+ 6 files changed, 25 insertions(+), 13 deletions(-)
+ create mode 100644 .gitignore
+ create mode 100644 __pycache__/neo4mails.cpython-39.pyc
+ create mode 100644 __pycache__/secret.cpython-39.pyc
+ create mode 100644 iss.log
+remote: 
+remote: GitHub found 1 vulnerability on GermanPaul12/ISS-Over-Mannheim-Newsletter-on-Replit's default branch (1 high). To find out more, visit:        
+remote:      https://github.com/GermanPaul12/ISS-Over-Mannheim-Newsletter-on-Replit/security/dependabot/1        
+remote: 
+To https://github.com/GermanPaul12/ISS-Over-Mannheim-Newsletter-on-Replit.git
+   142d3d4..d9ef53c  main -> main
+File successfully pushed to the remote repository.
+The code ran 1 times.

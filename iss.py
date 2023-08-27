@@ -6,8 +6,6 @@ from neo4mails import Email
 import subprocess
 from secret import Secret
 
-times = 0
-
 
 def git_push(remote_repo, branch="main"):
     try:
@@ -120,11 +118,7 @@ def iss_checker():
         else:
             print(
                 "The ISS is over your head but the sky is to light to see it.")
-        times += 1
-        print(f"The code ran {times} times.")
-    else:
-        times += 1
-        print(f"The code ran {times} times.")
+    print("The code ran successfully.")
 
 if __name__ == "__main__":
     iss_checker()
