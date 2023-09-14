@@ -25833,3 +25833,4171 @@ The code ran successfully.
 The code ran successfully.
 The code ran successfully.
 The code ran successfully.
+[main d1af914] Add update
+ 2 files changed, 8985 insertions(+)
+remote: 
+remote: GitHub found 1 vulnerability on GermanPaul12/ISS-Over-Mannheim-Newsletter-on-Replit's default branch (1 high). To find out more, visit:        
+remote:      https://github.com/GermanPaul12/ISS-Over-Mannheim-Newsletter-on-Replit/security/dependabot/1        
+remote: 
+To https://github.com/GermanPaul12/ISS-Over-Mannheim-Newsletter-on-Replit.git
+   456ebb4..d1af914  main -> main
+File successfully pushed to the remote repository.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+Traceback (most recent call last):
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 134, in <module>
+    iss_checker()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 96, in iss_checker
+    to = Email.read_emails()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/neo4mails.py", line 9, in read_emails
+    neo4j_uri = os.environ['neo4j_URI']  # Replace with your Neo4j URI
+  File "/usr/lib/python3.9/os.py", line 679, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'neo4j_URI'
+Traceback (most recent call last):
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 134, in <module>
+    iss_checker()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 96, in iss_checker
+    to = Email.read_emails()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/neo4mails.py", line 9, in read_emails
+    neo4j_uri = os.environ['neo4j_URI']  # Replace with your Neo4j URI
+  File "/usr/lib/python3.9/os.py", line 679, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'neo4j_URI'
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+Traceback (most recent call last):
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 134, in <module>
+    iss_checker()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 96, in iss_checker
+    to = Email.read_emails()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/neo4mails.py", line 9, in read_emails
+    neo4j_uri = os.environ['neo4j_URI']  # Replace with your Neo4j URI
+  File "/usr/lib/python3.9/os.py", line 679, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'neo4j_URI'
+Traceback (most recent call last):
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 134, in <module>
+    iss_checker()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 96, in iss_checker
+    to = Email.read_emails()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/neo4mails.py", line 9, in read_emails
+    neo4j_uri = os.environ['neo4j_URI']  # Replace with your Neo4j URI
+  File "/usr/lib/python3.9/os.py", line 679, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'neo4j_URI'
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.9/socket.py", line 953, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3.9/http/client.py", line 1255, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1301, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1250, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1010, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.9/http/client.py", line 950, in send
+    self.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7fa1335cd0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='api.open-notify.org', port=80): Max retries exceeded with url: /iss-now.json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa1335cd0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 134, in <module>
+    iss_checker()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 38, in iss_checker
+    response = requests.get(url)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='api.open-notify.org', port=80): Max retries exceeded with url: /iss-now.json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa1335cd0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.9/socket.py", line 953, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3.9/http/client.py", line 1255, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1301, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1250, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1010, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.9/http/client.py", line 950, in send
+    self.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7fa3058cd0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='api.open-notify.org', port=80): Max retries exceeded with url: /iss-now.json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa3058cd0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 134, in <module>
+    iss_checker()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 38, in iss_checker
+    response = requests.get(url)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='api.open-notify.org', port=80): Max retries exceeded with url: /iss-now.json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa3058cd0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.9/socket.py", line 953, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3.9/http/client.py", line 1255, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1301, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1250, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1010, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.9/http/client.py", line 950, in send
+    self.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f86c06cd0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='api.open-notify.org', port=80): Max retries exceeded with url: /iss-now.json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f86c06cd0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 134, in <module>
+    iss_checker()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 38, in iss_checker
+    response = requests.get(url)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='api.open-notify.org', port=80): Max retries exceeded with url: /iss-now.json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f86c06cd0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 445, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 440, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.9/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/usr/lib/python3.9/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.9/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.9/socket.py", line 704, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 532, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/usr/lib/python3/dist-packages/six.py", line 718, in reraise
+    raise value.with_traceback(tb)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 445, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 440, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.9/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/usr/lib/python3.9/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.9/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.9/socket.py", line 704, in readinto
+    return self._sock.recv_into(b)
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 134, in <module>
+    iss_checker()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 38, in iss_checker
+    response = requests.get(url)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 96, in create_connection
+    raise err
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 86, in create_connection
+    sock.connect(sa)
+TimeoutError: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3.9/http/client.py", line 1255, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1301, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1250, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1010, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.9/http/client.py", line 950, in send
+    self.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f7d50dcd0>: Failed to establish a new connection: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='api.open-notify.org', port=80): Max retries exceeded with url: /iss-now.json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7d50dcd0>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 134, in <module>
+    iss_checker()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 38, in iss_checker
+    response = requests.get(url)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='api.open-notify.org', port=80): Max retries exceeded with url: /iss-now.json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7d50dcd0>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+The code ran successfully.
+The code ran successfully.
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 96, in create_connection
+    raise err
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 86, in create_connection
+    sock.connect(sa)
+TimeoutError: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3.9/http/client.py", line 1255, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1301, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1250, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1010, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.9/http/client.py", line 950, in send
+    self.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f8c2f6cd0>: Failed to establish a new connection: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='api.open-notify.org', port=80): Max retries exceeded with url: /iss-now.json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8c2f6cd0>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 134, in <module>
+    iss_checker()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 38, in iss_checker
+    response = requests.get(url)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='api.open-notify.org', port=80): Max retries exceeded with url: /iss-now.json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8c2f6cd0>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 96, in create_connection
+    raise err
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 86, in create_connection
+    sock.connect(sa)
+TimeoutError: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3.9/http/client.py", line 1255, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1301, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1250, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1010, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.9/http/client.py", line 950, in send
+    self.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7fa5380cd0>: Failed to establish a new connection: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='api.open-notify.org', port=80): Max retries exceeded with url: /iss-now.json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa5380cd0>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 134, in <module>
+    iss_checker()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 38, in iss_checker
+    response = requests.get(url)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='api.open-notify.org', port=80): Max retries exceeded with url: /iss-now.json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa5380cd0>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 445, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 440, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.9/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/usr/lib/python3.9/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.9/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.9/socket.py", line 704, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 532, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/usr/lib/python3/dist-packages/six.py", line 718, in reraise
+    raise value.with_traceback(tb)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 445, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 440, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.9/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/usr/lib/python3.9/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.9/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.9/socket.py", line 704, in readinto
+    return self._sock.recv_into(b)
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 134, in <module>
+    iss_checker()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 38, in iss_checker
+    response = requests.get(url)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+Traceback (most recent call last):
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 134, in <module>
+    iss_checker()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 96, in iss_checker
+    to = Email.read_emails()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/neo4mails.py", line 9, in read_emails
+    neo4j_uri = os.environ['neo4j_URI']  # Replace with your Neo4j URI
+  File "/usr/lib/python3.9/os.py", line 679, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'neo4j_URI'
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 445, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 440, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.9/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/usr/lib/python3.9/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.9/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.9/socket.py", line 704, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 532, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/usr/lib/python3/dist-packages/six.py", line 718, in reraise
+    raise value.with_traceback(tb)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 445, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 440, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.9/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/usr/lib/python3.9/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.9/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.9/socket.py", line 704, in readinto
+    return self._sock.recv_into(b)
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 134, in <module>
+    iss_checker()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 38, in iss_checker
+    response = requests.get(url)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+The code ran successfully.
+The code ran successfully.
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 96, in create_connection
+    raise err
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 86, in create_connection
+    sock.connect(sa)
+TimeoutError: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3.9/http/client.py", line 1255, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1301, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1250, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1010, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.9/http/client.py", line 950, in send
+    self.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f87692cd0>: Failed to establish a new connection: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='api.open-notify.org', port=80): Max retries exceeded with url: /iss-now.json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f87692cd0>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 134, in <module>
+    iss_checker()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 38, in iss_checker
+    response = requests.get(url)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='api.open-notify.org', port=80): Max retries exceeded with url: /iss-now.json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f87692cd0>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 96, in create_connection
+    raise err
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 86, in create_connection
+    sock.connect(sa)
+TimeoutError: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3.9/http/client.py", line 1255, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1301, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1250, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1010, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.9/http/client.py", line 950, in send
+    self.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f9bd15cd0>: Failed to establish a new connection: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='api.open-notify.org', port=80): Max retries exceeded with url: /iss-now.json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9bd15cd0>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 134, in <module>
+    iss_checker()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 38, in iss_checker
+    response = requests.get(url)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='api.open-notify.org', port=80): Max retries exceeded with url: /iss-now.json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9bd15cd0>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+The code ran successfully.
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 96, in create_connection
+    raise err
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 86, in create_connection
+    sock.connect(sa)
+TimeoutError: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3.9/http/client.py", line 1255, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1301, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1250, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1010, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.9/http/client.py", line 950, in send
+    self.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f99c39cd0>: Failed to establish a new connection: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='api.open-notify.org', port=80): Max retries exceeded with url: /iss-now.json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f99c39cd0>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 134, in <module>
+    iss_checker()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 38, in iss_checker
+    response = requests.get(url)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='api.open-notify.org', port=80): Max retries exceeded with url: /iss-now.json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f99c39cd0>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 96, in create_connection
+    raise err
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 86, in create_connection
+    sock.connect(sa)
+TimeoutError: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3.9/http/client.py", line 1255, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1301, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1250, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1010, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.9/http/client.py", line 950, in send
+    self.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f88a2dcd0>: Failed to establish a new connection: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='api.open-notify.org', port=80): Max retries exceeded with url: /iss-now.json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f88a2dcd0>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 134, in <module>
+    iss_checker()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 38, in iss_checker
+    response = requests.get(url)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='api.open-notify.org', port=80): Max retries exceeded with url: /iss-now.json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f88a2dcd0>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 445, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 440, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.9/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/usr/lib/python3.9/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.9/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.9/socket.py", line 704, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 532, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/usr/lib/python3/dist-packages/six.py", line 718, in reraise
+    raise value.with_traceback(tb)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 445, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 440, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.9/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/usr/lib/python3.9/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.9/http/client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.9/socket.py", line 704, in readinto
+    return self._sock.recv_into(b)
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 134, in <module>
+    iss_checker()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 38, in iss_checker
+    response = requests.get(url)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 445, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 440, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.9/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/usr/lib/python3.9/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.9/http/client.py", line 276, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 532, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/usr/lib/python3/dist-packages/six.py", line 718, in reraise
+    raise value.with_traceback(tb)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 445, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 440, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.9/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/usr/lib/python3.9/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.9/http/client.py", line 276, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 134, in <module>
+    iss_checker()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 38, in iss_checker
+    response = requests.get(url)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 445, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 440, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.9/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/usr/lib/python3.9/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.9/http/client.py", line 276, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 532, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/usr/lib/python3/dist-packages/six.py", line 718, in reraise
+    raise value.with_traceback(tb)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 445, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 440, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.9/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/usr/lib/python3.9/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.9/http/client.py", line 276, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 134, in <module>
+    iss_checker()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 38, in iss_checker
+    response = requests.get(url)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+Traceback (most recent call last):
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 134, in <module>
+    iss_checker()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 96, in iss_checker
+    to = Email.read_emails()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/neo4mails.py", line 9, in read_emails
+    neo4j_uri = os.environ['neo4j_URI']  # Replace with your Neo4j URI
+  File "/usr/lib/python3.9/os.py", line 679, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'neo4j_URI'
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 445, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 440, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.9/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/usr/lib/python3.9/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.9/http/client.py", line 276, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 532, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/usr/lib/python3/dist-packages/six.py", line 718, in reraise
+    raise value.with_traceback(tb)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 445, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 440, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.9/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/usr/lib/python3.9/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.9/http/client.py", line 276, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 134, in <module>
+    iss_checker()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 38, in iss_checker
+    response = requests.get(url)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+Traceback (most recent call last):
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 134, in <module>
+    iss_checker()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 96, in iss_checker
+    to = Email.read_emails()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/neo4mails.py", line 9, in read_emails
+    neo4j_uri = os.environ['neo4j_URI']  # Replace with your Neo4j URI
+  File "/usr/lib/python3.9/os.py", line 679, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'neo4j_URI'
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 96, in create_connection
+    raise err
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 86, in create_connection
+    sock.connect(sa)
+TimeoutError: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3.9/http/client.py", line 1255, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1301, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1250, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.9/http/client.py", line 1010, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.9/http/client.py", line 950, in send
+    self.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7fa36f4cd0>: Failed to establish a new connection: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='api.open-notify.org', port=80): Max retries exceeded with url: /iss-now.json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa36f4cd0>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 134, in <module>
+    iss_checker()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 38, in iss_checker
+    response = requests.get(url)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='api.open-notify.org', port=80): Max retries exceeded with url: /iss-now.json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa36f4cd0>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 445, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 440, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.9/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/usr/lib/python3.9/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.9/http/client.py", line 276, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 532, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/usr/lib/python3/dist-packages/six.py", line 718, in reraise
+    raise value.with_traceback(tb)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 445, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 440, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.9/http/client.py", line 1347, in getresponse
+    response.begin()
+  File "/usr/lib/python3.9/http/client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.9/http/client.py", line 276, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 134, in <module>
+    iss_checker()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 38, in iss_checker
+    response = requests.get(url)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+Traceback (most recent call last):
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 134, in <module>
+    iss_checker()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 39, in iss_checker
+    response.raise_for_status()
+  File "/usr/lib/python3/dist-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: http://api.open-notify.org/iss-now.json
+Traceback (most recent call last):
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 134, in <module>
+    iss_checker()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 39, in iss_checker
+    response.raise_for_status()
+  File "/usr/lib/python3/dist-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: http://api.open-notify.org/iss-now.json
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+Traceback (most recent call last):
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 134, in <module>
+    iss_checker()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 96, in iss_checker
+    to = Email.read_emails()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/neo4mails.py", line 9, in read_emails
+    neo4j_uri = os.environ['neo4j_URI']  # Replace with your Neo4j URI
+  File "/usr/lib/python3.9/os.py", line 679, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'neo4j_URI'
+Traceback (most recent call last):
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 134, in <module>
+    iss_checker()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 96, in iss_checker
+    to = Email.read_emails()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/neo4mails.py", line 9, in read_emails
+    neo4j_uri = os.environ['neo4j_URI']  # Replace with your Neo4j URI
+  File "/usr/lib/python3.9/os.py", line 679, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'neo4j_URI'
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+Traceback (most recent call last):
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 134, in <module>
+    iss_checker()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 96, in iss_checker
+    to = Email.read_emails()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/neo4mails.py", line 9, in read_emails
+    neo4j_uri = os.environ['neo4j_URI']  # Replace with your Neo4j URI
+  File "/usr/lib/python3.9/os.py", line 679, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'neo4j_URI'
+Traceback (most recent call last):
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 134, in <module>
+    iss_checker()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 96, in iss_checker
+    to = Email.read_emails()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/neo4mails.py", line 9, in read_emails
+    neo4j_uri = os.environ['neo4j_URI']  # Replace with your Neo4j URI
+  File "/usr/lib/python3.9/os.py", line 679, in __getitem__
+    raise KeyError(key) from None
+KeyError: 'neo4j_URI'
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
