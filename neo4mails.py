@@ -1,15 +1,14 @@
 from neo4j import GraphDatabase
-import os
-
+from secret import Secret
 
 class Email:
     emails = set()
 
     def read_emails():
-        neo4j_uri = os.environ['neo4j_URI']  # Replace with your Neo4j URI
-        neo4j_user = os.environ[
+        neo4j_uri = Secret.secrets['neo4j_URI']  # Replace with your Neo4j URI
+        neo4j_user = Secret.secrets[
             'neo4j_USER']  # Replace with your Neo4j username
-        neo4j_password = os.environ[
+        neo4j_password = Secret.secrets[
             'neo4j_PW']  # Replace with your Neo4j password
 
         with GraphDatabase.driver(neo4j_uri,

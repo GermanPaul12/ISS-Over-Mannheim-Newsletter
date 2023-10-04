@@ -1,2 +1,5 @@
 secret.py
 iss.log
+venv
+__pycache__
+*.pyc
