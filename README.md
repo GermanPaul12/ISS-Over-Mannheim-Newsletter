@@ -1,5 +1,5 @@
 # ISS-Over-Mannheim-Newsletter-on-Replit
 
-## Trash Repo which is used by the WebApp Streamlit ISS Route Viewer to load the data of the ISS
+## This Repo is used by another Repo to send a Newsletter to the ISS-Over-Mannheim-Newsletter-Subscribers and also to get the necessery Data for the Newsletter
 
-### Data is generated in Replit and automatically pushed to Github. So i can use it for my Web App.
+## Streamlit: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://iss-route.streamlit.app/)

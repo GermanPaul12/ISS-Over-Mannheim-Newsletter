@@ -50,21 +50,21 @@ def iss_checker():
 
     #my_location = (MY_LAT, MY_LNG)
     #print(f"My current location is: {my_location}")
-    with open('iss_data.csv', 'a+') as f:
+    with open('Files/iss_data.csv', 'a+') as f:
         f.write(f"{iss_position[0]},{iss_position[1]},{datetime.now()}\n")
    
     
-    with open("git_log.txt", "r") as f:
+    with open("Files/git_log.txt", "r") as f:
         todays_day = datetime.now().weekday()
         if todays_day in [0,2,4,6]:
             if f.read() == "False":
                 remote_repo = "origin"
                 branch = "main"  # Change this to your branch name if different
                 git_push(remote_repo, branch)
-                with open("git_log.txt", "w") as file:
+                with open("Files/git_log.txt", "w") as file:
                     file.write("True")
         else:
-            with open("git_log.txt", "w") as file:
+            with open("Files/git_log.txt", "w") as file:
                 file.write("False")   
 
     if iss_position[0] <= float(MY_LAT) + 5 and iss_position[0] >= float(
@@ -122,7 +122,7 @@ def iss_checker():
                 sender.send(to=Secret.secrets['MY_MAIL'],
                             subject="The ISS is above you!📍",
                             contents=html_content)
-            with open('iss_mannheim.csv', 'a+') as f:
+            with open('Files/iss_mannheim.csv', 'a+') as f:
                 f.write(f"{datetime.now()}: {iss_position}")
             print("Look up")
         else:

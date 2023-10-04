@@ -59187,3 +59187,16 @@ The code ran successfully.
 The code ran successfully.
 The code ran successfully.
 The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+The code ran successfully.
+Traceback (most recent call last):
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 134, in <module>
+    iss_checker()
+  File "/home/german/Documents/Coding/ISS-Over-Mannheim-Newsletter-on-Replit/iss.py", line 57, in iss_checker
+    with open("git_log.txt", "r") as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'git_log.txt'
+The code ran successfully.
