@@ -13,7 +13,7 @@ def git_push(remote_repo, branch="main"):
         subprocess.run(["git", "add", "."], check=True)
 
         # Committing the changes
-        commit_message = f"Add update"
+        commit_message = f"update data"
         subprocess.run(["git", "commit", "-m", commit_message], check=True)
 
         # Pushing the changes to the remote repository
