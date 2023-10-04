@@ -123,7 +123,7 @@ def iss_checker():
                             subject="The ISS is above you!📍",
                             contents=html_content)
             with open('Files/iss_mannheim.csv', 'a+') as f:
-                f.write(f"{datetime.now()}: {iss_position}")
+                f.write(f"{datetime.now()},{iss_position}\n")
             print("Look up")
         else:
             print(
